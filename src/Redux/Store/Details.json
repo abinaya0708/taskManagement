@@ -1,0 +1,24 @@
+{ "arr":[
+    {
+        "username":"Abinaya",
+        "password":"123"
+    },
+    {
+        "username":"Akalya",
+        "password":"123"
+    },
+    {
+        "username":"Priya",
+        "password":"123"
+    },
+    {
+        "username":"Malathi",
+        "password":"123"
+    },
+    {
+        "username":"Lavanya",
+        "password":"123"
+    }
+
+]
+}
